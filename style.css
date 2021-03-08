@@ -2,7 +2,6 @@ body {
     background-color: #242529
 }
 
-
 .middle {
     margin: 0;
     position: absolute;
@@ -80,3 +79,14 @@ li a:hover {
     color: #F14E56;
     font-weight: 700
 }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 42px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+  }
