@@ -73,6 +73,7 @@ li a {
     color: white;
     padding: 10px 20px;
     text-decoration: none;
+    font-family: 'Mukta', sans-serif;
 }
 
 li a:hover {
