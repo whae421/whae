@@ -1,5 +1,6 @@
 body {
-    background-color: #242529
+    background-image: url('images/cloud\ background.jpg');
+    background-repeat: no-repeat;
 }
 
 .middle {
