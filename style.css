@@ -121,19 +121,22 @@ h1 {
         width: 85px
     }
     .title>h1 {
-        font-size: 42px
+        font-size: 40px
     }
     .title>h2 {
         font-size: 15px;
     }
+    .topnav {
+        top:38px
+    }
     .topnav a {
-        font-size: 18px;
+        font-size: 17px;
     }
     .middle>.links>a {
         font-size: 10px;
     }
     .footer{
-        height: 50px;
+        height: 36px;
         font-size: 13px;
     }
   }
