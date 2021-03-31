@@ -118,7 +118,7 @@ h1 {
 
 @media only screen and (max-width: 421px) {
     .logo img {
-        width:80px
+        width:70px
     }
     .title>h1 {
         font-size: 42px
@@ -127,12 +127,13 @@ h1 {
         font-size: 21px;
     }
     .topnav a {
-        font-size: 10px;
+        font-size: 18px;
     }
-    .links a {
+    .links>a {
         font-size: 15px;
     }
     .footer{
-        font-size: 10px;
+        height: 30px;
+        font-size: 13px;
     }
   }
